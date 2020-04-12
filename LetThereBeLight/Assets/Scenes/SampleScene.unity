@@ -206,6 +206,8 @@ MonoBehaviour:
   black: {fileID: 2100000, guid: e671ef0d6104435459d99c9157de1e3c, type: 2}
   light: {fileID: 2100000, guid: 925c2d6def1527e48a9e8416d578a834, type: 2}
   count: {fileID: 1730976529}
+  time: {fileID: 553598372}
+  score: {fileID: 1289185515}
   speed: 2
 --- !u!4 &356766719
 Transform:
